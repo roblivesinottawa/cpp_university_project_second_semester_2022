@@ -1,5 +1,3 @@
-// array.cpp by Bill Weinman [bw.org]
-// updated 2020-07-07
 #include <cstdio>
 
 int main()
