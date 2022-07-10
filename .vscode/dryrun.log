@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/robsontrajano/Documents/programming/2022/c++_projects'
+make: Leaving directory `/Users/robsontrajano/Documents/programming/2022/c++_projects'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
